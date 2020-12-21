@@ -1,7 +1,7 @@
 Bido Music
 ==========
 
-Bido es permite la reproduccion de musica 
+Bido nos permite la reproduccion de musica en locales comerciales bajo permisos y licencias.
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
